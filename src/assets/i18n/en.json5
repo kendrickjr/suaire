@@ -1638,11 +1638,11 @@
 
   "file-section.error.header": "Error obtaining files for this item",
 
-  "footer.copyright": "copyright © 2002-{{ year }}",
+  "footer.copyright": "Copyright © {{ year }}",
 
-  "footer.link.dspace": "DSpace software",
+  "footer.link.dspace": "SNAL |::| ",
 
-  "footer.link.lyrasis": "LYRASIS",
+  "footer.link.lyrasis": "Sokoine University of Agriculture",
 
   "footer.link.cookies": "Cookie settings",
 
@@ -1854,11 +1854,11 @@
 
   "home.breadcrumbs": "Home",
 
-  "home.search-form.placeholder": "Search the repository ...",
+  "home.search-form.placeholder": "Search the SUA repository ...",
 
   "home.title": "Home",
 
-  "home.top-level-communities.head": "Communities in DSpace",
+  "home.top-level-communities.head": "Communities in SUAIRE",
 
   "home.top-level-communities.help": "Select a community to browse its collections.",
 
